@@ -19,8 +19,8 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# # Role/position/tagline
-# role: Chief Scientist
+# Role/position/tagline
+role: 高木 洋羽
 
 # # Organizations/Affiliations to display in Biography blox
 # organizations:
@@ -232,5 +232,5 @@ skills:
 ## About Me
 
 I am a master’s student in Computer Science at the University of Tokyo.
-My interests lie in machine learning and artificial intelligence, particularly in their interactions with humans.
-While I sometimes enjoy reading theoretical papers, I also find great satisfaction in conducting empirical experiments through programming.
+My interests lie in ML/AI, with a focus on both research and application development.
+I am particularly interested in building reliable, robust, and intelligent systems and exploring their interactions with humans.
