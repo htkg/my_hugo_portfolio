@@ -32,19 +32,19 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
+    show_search: false
+    show_theme_chooser: false
     logo:
       text: "Hirohane Takagi"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Hirohane Takagi. All rights reserved.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
