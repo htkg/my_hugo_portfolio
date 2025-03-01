@@ -49,7 +49,7 @@ profiles:
 interests:
   - Statistical Machine Learning
   - Large Language Models
-  - Human-Computer Interaction
+  - Signal Processing
 
 education:
   # - area: PhD Artificial Intelligence
@@ -92,7 +92,7 @@ education:
     date_start: 2020-04-01
     date_end: 2024-03-31
     summary: |
-      Department of Mathematical Engineering and Information Physics (MEIP)  
+      Department: Mathematical Engineering and Information Physics (MEIP)  
       Bachelor thesis: Prediction of Glaucoma from 3D Images of Brain Structural MRI Using Tensor Regression
 work:
   - position: Part-time Data Scientist
@@ -156,6 +156,10 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+      - name: Google Cloud
+        description: ''
+        percent: 40
+        icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -172,6 +176,10 @@ skills:
       #   description: ''
       #   percent: 80
       #   icon: camera
+      - name: Programming
+        description: ''
+        percent: 100
+        icon: code-bracket
       - name: Music
         description: ''
         percent: 60
@@ -180,14 +188,6 @@ skills:
         description: ''
         percent: 100
         icon: fire
-      - name: Travel
-        description: ''
-        percent: 80
-        icon: globe-asia-australia
-      - name: Hackathons
-        description: ''
-        percent: 40
-        icon: wrench-screwdriver
 
 # languages:
 #   - name: English
