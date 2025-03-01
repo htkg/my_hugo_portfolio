@@ -229,8 +229,8 @@ skills:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## About
 
 I am a master’s student in Computer Science at the University of Tokyo.
-My interests lie in ML/AI, with a focus on both research and application development.
-I am particularly interested in building reliable, robust, and intelligent systems and exploring their interactions with humans.
+My interests revolve around ML/AI, with a balanced focus on both fundamental research and practical application development.
+I am passionate about designing reliable, robust, and intelligent systems and exploring how they can interact with humans to address real-world challenges.
