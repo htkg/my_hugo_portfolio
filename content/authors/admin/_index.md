@@ -232,5 +232,5 @@ skills:
 ## About
 
 I am a master’s student in Computer Science at the University of Tokyo.
-My interests revolve around ML/AI, with a balanced focus on both fundamental research and practical application development.
-I am passionate about designing reliable, robust, and intelligent systems and exploring how they can interact with humans to address real-world challenges.
+I’m interested in solving real-world problems using weakly supervised learning and Human-AI collaboration.
+My work spans both theoretical studies and applied development.
