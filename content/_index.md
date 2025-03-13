@@ -46,7 +46,7 @@ sections:
         <span style="font-size:90%;">
 
         1. Hirohane Takagi, Shoji Moriya, Takuma Sato, Manabu Nagao, Keita Higuchi. A Framework for Efficient Development and Debugging of Role-Playing Agents with Large Language Models. In Proceedings of the 30th International Conference on Intelligent User Interfaces (forthcoming).  
-        [Conference Schedule](https://iui.acm.org/2025/program_at_a_glance.html)
+        [Conference Schedule](https://iui.acm.org/2025/program_at_a_glance.html)，[PDF] (後日公開予定)
 
         </span>
 
@@ -58,14 +58,16 @@ sections:
 
         1. <u>高木洋羽</u>, 佐藤大地, 長谷川貴巨, 大福泰樹, 武田峻悟, 山内有倫, 高橋孝樹, 国藤靖彦, 機械学習と波形補正を用いたスマートメーター計測値からPV出力と実需要への分離推定, 令和7年電気学会全国大会, (2025.3).  
         [要旨(6-102)](https://gakkai-web.net/iee/program/2025/data/html/general/general9.html)  
-        ⚡︎松尾研究所と東京電力パワーグリッドの共同研究
+        ⚡︎松尾研究所と東京電力パワーグリッドの共同研究による．
 
         1. 峰岸剛基\*, <u>高木洋羽</u>\*, 木澤翔太\*, 助田一晟, 谷中瞳, 大規模言語モデルにおいて数値属性間で共有されるスケーリングベクトルの解析とその応用, 言語処理学会第31回年次大会, (2025.3).  
-        口頭発表, [PDF](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A6-2.pdf)  
-        \*共同第一著者
+        口頭発表, [PDF](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/A6-2.pdf)，若手奨励賞（対象487件中20件）🎉  
+        <small>
+        \*第一著者から第三著者までの貢献は等しい．
+        </small>
 
         1. <u>高木洋羽</u>, 守屋彰二, 佐藤拓真, 永尾学, 樋口啓太, 大規模言語モデルを用いたロールプレイエージェントの効率的な開発と動作検証のためのフレームワーク, インタラクション2025, (2025.3).  
-        査読あり, 登壇発表[(Youtube)](https://www.youtube.com/live/VKIjNRDV5Ds?feature=shared&t=2780), [Webカタログ(17)](https://www.interaction-ipsj.org/2025/web-catalog/)
+        査読あり, 登壇発表[(Youtube)](https://www.youtube.com/live/VKIjNRDV5Ds?feature=shared&t=2780), [Webカタログ(17)](https://www.interaction-ipsj.org/2025/web-catalog/)，[PDF] (後日公開予定)
 
         </span>
 
@@ -73,7 +75,11 @@ sections:
     content:
       title: Other Activities
       text: |
-        [GDG Tokyo](https://gdg.community.dev/gdg-tokyo/)  
+        [GDG Tokyo](https://gdg.community.dev/gdg-tokyo/) / GDGoC  
+
+        - Paper reading session on Generative AI  
+        [Japanese Blog](https://note.com/gdgtokyo/n/ne5733f66059f)
+
         - Talk at [GDG DevFest Tokyo 2024](https://gdg-tokyo.connpass.com/event/335192/) about the introduction of GDGoC.
 
         - [GDSC Solution Challenge Winners](https://developers.google.com/community/gdsc-solution-challenge/winners)  

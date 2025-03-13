@@ -12,9 +12,7 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'This is Hirohane Takagi’s personal website, built with Hugo Blox Builder.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
