@@ -45,8 +45,8 @@ sections:
       text: |
         <span style="font-size:90%;">
 
-        1. Hirohane Takagi, Shoji Moriya, Takuma Sato, Manabu Nagao, Keita Higuchi. A Framework for Efficient Development and Debugging of Role-Playing Agents with Large Language Models. In Proceedings of the 30th International Conference on Intelligent User Interfaces (forthcoming).  
-        [Conference Schedule](https://iui.acm.org/2025/program_at_a_glance.html)，[PDF] (後日公開予定)
+        1. <u>Hirohane Takagi</u>, Shoji Moriya, Takuma Sato, Manabu Nagao, Keita Higuchi. (2025, March). A Framework for Efficient Development and Debugging of Role-Playing Agents with Large Language Models. In Proceedings of the 30th International Conference on Intelligent User Interfaces (pp. 70-88).  
+        [Paper](https://dl.acm.org/doi/10.1145/3708359.3712119)
 
         </span>
 

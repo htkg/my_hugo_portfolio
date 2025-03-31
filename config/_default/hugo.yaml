@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hirohane Takagi (高木洋羽)
+title: Hirohane Takagi
 # Website URL
-baseURL: 'https://hotekagi.github.io/'
+baseURL: 'https://htkg.github.io/'
 
 ############################
 ## LANGUAGE

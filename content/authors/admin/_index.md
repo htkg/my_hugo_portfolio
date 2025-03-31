@@ -38,7 +38,7 @@ profiles:
 #   - icon: brands/instagram
 #     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/hotekagi
+    url: https://github.com/htkg
 #   - icon: brands/linkedin
 #     url: https://www.linkedin.com/
 #   - icon: academicons/google-scholar
@@ -231,6 +231,6 @@ skills:
 
 ## About
 
-I am a master’s student in Computer Science at the University of Tokyo.
-I’m interested in solving real-world problems using weakly supervised learning and Human-AI collaboration.
+I am a master’s student in computer science at the University of Tokyo.
+I’m interested in solving real-world problems using weakly supervised learning and human-AI collaboration.
 My work spans both theoretical studies and applied development.
