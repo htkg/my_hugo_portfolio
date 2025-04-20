@@ -144,21 +144,9 @@ skills:
         description: ''
         # percent: 80
         icon: server-stack
-      - name: HTML/JavaScript
-        description: ''
-        # percent: 80
-        icon: computer-desktop
-      # - name: Data Science
-      #   description: ''
-      #   percent: 100
-      #   icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
       - name: Google Cloud
         description: ''
-        percent: 40
+        # percent: 40
         icon: cloud
   - name: Hobbies
     color: '#eeac02'
@@ -176,10 +164,10 @@ skills:
       #   description: ''
       #   percent: 80
       #   icon: camera
-      - name: Programming
+      - name: Refactoring code:D
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: arrow-path
       - name: Music
         description: ''
         percent: 60

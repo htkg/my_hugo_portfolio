@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2025-03-31
+date: 2025-04-20
 type: landing
 
 design:
@@ -46,7 +46,7 @@ sections:
         <span style="font-size:90%;">
 
         1. <u>Hirohane Takagi</u>, Shoji Moriya, Takuma Sato, Manabu Nagao, Keita Higuchi. (2025, March). A Framework for Efficient Development and Debugging of Role-Playing Agents with Large Language Models. In Proceedings of the 30th International Conference on Intelligent User Interfaces (pp. 70-88).  
-        [Paper](https://dl.acm.org/doi/10.1145/3708359.3712119)
+        [Paper](https://dl.acm.org/doi/10.1145/3708359.3712119), [PFN Tech Blog(Japanese)](https://tech.preferred.jp/ja/blog/efficient-dev-roleplay-system/)
 
         </span>
 
