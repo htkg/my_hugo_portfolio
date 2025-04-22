@@ -67,7 +67,7 @@ sections:
         </small>
 
         1. <u>高木洋羽</u>, 守屋彰二, 佐藤拓真, 永尾学, 樋口啓太, 大規模言語モデルを用いたロールプレイエージェントの効率的な開発と動作検証のためのフレームワーク, インタラクション2025, (2025.3).  
-        査読あり, 登壇発表[(Youtube)](https://www.youtube.com/live/VKIjNRDV5Ds?feature=shared&t=2780), [Webカタログ(17)](https://www.interaction-ipsj.org/2025/web-catalog/)，[PDF] (後日公開予定)
+        査読あり, 登壇発表[(Youtube)](https://www.youtube.com/live/VKIjNRDV5Ds?feature=shared&t=2780), [Webカタログ(17)](https://www.interaction-ipsj.org/2025/web-catalog/)，[PDF](https://www.interaction-ipsj.org/proceedings/2025/data/pdf/INT25017.pdf)
 
         </span>
 
