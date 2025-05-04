@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2025-04-20
+date: 2025-05-01
 type: landing
 
 design:
@@ -78,9 +78,10 @@ sections:
         [GDG Tokyo](https://gdg.community.dev/gdg-tokyo/) / GDGoC  
 
         - Paper reading session on Generative AI  
-        [Japanese Blog](https://note.com/gdgtokyo/n/ne5733f66059f)
+        [Blog](https://note.com/gdgtokyo/n/ne5733f66059f)
 
-        - Talk at [GDG DevFest Tokyo 2024](https://gdg-tokyo.connpass.com/event/335192/) about the introduction of GDGoC.
+        - Talk at [GDG DevFest Tokyo 2024](https://gdg-tokyo.connpass.com/event/335192/) about the introduction of GDGoC.  
+        [Slides](https://speakerdeck.com/htkg/gastofirebasedetiao-mupanwu-nohudorosujie-jue)
 
         - [GDSC Solution Challenge Winners](https://developers.google.com/community/gdsc-solution-challenge/winners)  
         At the global hackathon for Google Developer Groups on Campus ([GDCoC](https://developers.google.com/community); formerly Google Developer Student Clubs), leading the UTokyo team to win the 2024 Global Top 100 award!
