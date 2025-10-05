@@ -107,13 +107,13 @@ work:
     date_start: 2025-05-01
     date_end: ''
   - position: Part-time Data Scientist
-    company_name: Matsuo Institute
+    company_name: Matsuo Institute, Inc.
     company_url: ''
     company_logo: ''
     date_start: 2023-05-01
     date_end: ''
   - position: Research Internship
-    company_name: Preferred Networks
+    company_name: Preferred Networks, Inc.
     company_url: ''
     company_logo: ''
     date_start: 2024-08-01
@@ -175,18 +175,18 @@ skills:
       #   description: ''
       #   percent: 80
       #   icon: camera
-      - name: Refactoring code:D
+      - name: Refactoring
         description: ''
         percent: 100
         icon: arrow-path
-      - name: Music
-        description: ''
-        percent: 60
-        icon: musical-note
-      - name: Ramen
+      - name: Ramen shops
         description: ''
         percent: 100
-        icon: fire
+        icon: building-storefront
+      - name: Short trips
+        description: ''
+        percent: 60
+        icon: shopping-bag
 
 # languages:
 #   - name: English
