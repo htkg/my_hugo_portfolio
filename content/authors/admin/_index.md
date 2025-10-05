@@ -230,6 +230,6 @@ skills:
 
 ## About
 
-I am a master’s student in computer science at the University of Tokyo.  
-I am interested in addressing real-world problems through learning from limited information and human–AI collaboration.
-I work on both theoretical analysis and practical applications.
+I am a master’s student in computer science at the University of Tokyo, Japan.  
+My interests lie in addressing real-world problems through learning from limited information and human–AI collaboration.
+I strive to engage in both theoretical exploration and practical application development.
