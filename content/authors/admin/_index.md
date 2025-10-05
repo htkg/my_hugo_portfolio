@@ -95,6 +95,17 @@ education:
       Department: Mathematical Engineering and Information Physics (MEIP)  
       Bachelor thesis: Prediction of Glaucoma from 3D Images of Brain Structural MRI Using Tensor Regression
 work:
+  - position: Research Attachment at IHPC under SIPGA
+    company_name: Agency for Science, Technology and Research (A*STAR), Singapore
+    company_url: ''
+    date_start: 2025-05-01
+    date_end: 2025-09-30
+  - position: Student Trainee at Explainable AI Team
+    company_name: RIKEN Center for Advanced Intelligence Project (AIP)
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-05-01
+    date_end: ''
   - position: Part-time Data Scientist
     company_name: Matsuo Institute
     company_url: ''
@@ -219,6 +230,6 @@ skills:
 
 ## About
 
-I am a master’s student in computer science at the University of Tokyo.
-I’m interested in solving real-world problems using weakly supervised learning and human-AI collaboration.
-My work spans both theoretical studies and applied development.
+I am a master’s student in computer science at the University of Tokyo.  
+I am interested in addressing real-world problems through learning from limited information and human–AI collaboration.
+I work on both theoretical analysis and practical applications.
