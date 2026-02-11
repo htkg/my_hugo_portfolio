@@ -78,7 +78,7 @@ education:
   #   date_end: 2020-12-31
   #   summary: |
   #     GPA: 3.4/4.0
-      
+
   #     Courses included:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -204,7 +204,6 @@ awards:
   - title: Singapore International Pre-Graduate Award (SIPGA)
     date: '2025-05-13'
     awarder: A*STAR, Singapore
-    # icon: coursera
     summary: |
       Funded research attachment
 #   - title: Blockchain Fundamentals

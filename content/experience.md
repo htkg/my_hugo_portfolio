@@ -1,10 +1,10 @@
 ---
 title: 'Experience'
-date: 2025-10-01
+date: 2026-02-11
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '2rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
