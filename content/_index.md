@@ -58,7 +58,7 @@ sections:
   - block: markdown
     id: domestic
     content:
-      title: Domestic conference papers (国内発表)
+      title: Domestic Conference Papers (国内発表)
       text: |
         1. <u>高木洋羽</u>, 佐藤大地, 長谷川貴巨, 大福泰樹, 武田峻悟, 山内有倫, 高橋孝樹, 国藤靖彦, 機械学習と波形補正を用いたスマートメーター計測値からPV出力と実需要への分離推定, 令和7年電気学会全国大会, (2025.3).  
         [要旨(6-102)](https://gakkai-web.net/iee/program/2025/data/html/general/general9.html)，松尾研究所と東京電力パワーグリッドの共同研究⚡️  
