@@ -30,7 +30,7 @@ role: 高木 洋羽
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope
     url: 'mailto:hirohanetakagi@gmail.com'
     label: E-mail Me
   - icon: brands/x
@@ -49,7 +49,7 @@ profiles:
 interests:
   - Statistical Machine Learning
   - Large Language Models
-  - Signal Processing
+  - Explainable AI, Interprretability
 
 education:
   # - area: PhD Artificial Intelligence
@@ -95,7 +95,7 @@ education:
       Department: Mathematical Engineering and Information Physics (MEIP)  
       Bachelor thesis: Prediction of Glaucoma from 3D Images of Brain Structural MRI Using Tensor Regression
 work:
-  - position: Research Attachment at IHPC under SIPGA
+  - position: Research Attachment at IHPC, A*STAR under SIPGA
     company_name: Agency for Science, Technology and Research (A*STAR), Singapore
     company_url: ''
     date_start: 2025-05-01
@@ -106,7 +106,7 @@ work:
     company_logo: ''
     date_start: 2025-05-01
     date_end: ''
-  - position: Part-time Data Scientist
+  - position: Part-time Data Scientist, Project Manager
     company_name: Matsuo Institute, Inc.
     company_url: ''
     company_logo: ''
@@ -179,11 +179,11 @@ skills:
         description: ''
         percent: 100
         icon: arrow-path
-      - name: Ramen shops
+      - name: Beer tasting
         description: ''
         percent: 100
         icon: building-storefront
-      - name: Short trips
+      - name: Trips
         description: ''
         percent: 60
         icon: shopping-bag
@@ -231,5 +231,6 @@ skills:
 ## About
 
 I am a master’s student in computer science at the University of Tokyo, Japan.  
-My interests lie in addressing real-world problems through learning from limited information and human–AI collaboration.
-I strive to engage in both theoretical exploration and practical application development.
+My interests lie in reliable control of generative models through learning from
+limited information and human–AI collaboration. I strive to engage in both
+theoretical exploration and practical application development.
