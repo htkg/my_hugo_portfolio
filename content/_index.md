@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2026-02-11
+date: 2026-04-06
 type: landing
 
 design:
@@ -45,7 +45,7 @@ sections:
       title: Refereed Conference Papers
       text: |
         1. <u>Hirohane Takagi</u>, Atsushi Nitanda. (2026, April). Alternating Diffusion for Proximal Sampling with Zeroth Order Queries. The 14th International Conference on Learning Representations.  
-        [Conference Page](https://iclr.cc/virtual/2026/poster/10009836)
+        [Paper](https://openreview.net/forum?id=NjjRuJuMTd), [Arxiv](https://arxiv.org/abs/2603.19633), [Code (GitHub)](https://github.com/htkg/zod-ps)
 
         1. <u>Hirohane Takagi\*</u>, Gouki Minegishi\*, Shota Kizawa, Issey Sukeda, Hitomi Yanaka. (2025, December). Interpreting Multi-Attribute Confounding through Numerical Attributes in Large Language Models. In Proceedings of International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (pp. 1098-1115).  
         [Paper](https://aclanthology.org/2025.ijcnlp-long.60/), [Arxiv](https://arxiv.org/abs/2511.04053), [Code (GitHub)](https://github.com/htkg/num_attrs)
