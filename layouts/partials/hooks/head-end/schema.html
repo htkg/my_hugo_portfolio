@@ -1,0 +1,139 @@
+{{/* Structured data for the author and the refereed conference papers listed on the homepage. */}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://htkg.github.io/#person",
+      "name": "Hirohane Takagi",
+      "alternateName": "高木 洋羽",
+      "givenName": "Hirohane",
+      "familyName": "Takagi",
+      "url": "https://htkg.github.io/",
+      "jobTitle": "MSc student in Computer Science",
+      "affiliation": [
+        {"@type": "CollegeOrUniversity", "name": "The University of Tokyo"},
+        {"@type": "ResearchOrganization", "name": "RIKEN Center for Advanced Intelligence Project (AIP)"}
+      ],
+      "alumniOf": {"@type": "CollegeOrUniversity", "name": "The University of Tokyo"},
+      "knowsAbout": [
+        "Statistical Machine Learning",
+        "Large Language Models",
+        "Mechanistic Interpretability",
+        "Explainable AI",
+        "Sampling Algorithms",
+        "Diffusion Models",
+        "Human-AI Interaction"
+      ],
+      "sameAs": [
+        "https://github.com/htkg",
+        "https://x.com/hhhhtkg",
+        "https://www.linkedin.com/in/hirohane-takagi"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://htkg.github.io/#zod-ps",
+      "name": "Alternating Diffusion for Proximal Sampling with Zeroth Order Queries",
+      "headline": "A proximal sampler that needs only black-box function evaluations, with provable exponential convergence",
+      "author": [
+        {"@id": "https://htkg.github.io/#person"},
+        {"@type": "Person", "name": "Atsushi Nitanda"}
+      ],
+      "datePublished": "2026-04-23",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "Proceedings of the 14th International Conference on Learning Representations (ICLR 2026)"
+      },
+      "identifier": "arXiv:2603.19633",
+      "url": "https://openreview.net/forum?id=NjjRuJuMTd",
+      "sameAs": [
+        "https://openreview.net/forum?id=NjjRuJuMTd",
+        "https://arxiv.org/abs/2603.19633",
+        "https://github.com/htkg/zod-ps"
+      ],
+      "abstract": "Turns diffusion-model theory into a sampler that runs on black-box function evaluations alone. By treating the intermediate particle distribution as a Gaussian mixture, it builds a Monte Carlo score estimator from directly samplable distributions, so no learned score network and no rejection sampling are needed. It inherits the exponential convergence of proximal sampling under isoperimetric conditions, while allowing flexible step sizes and a deterministic runtime budget.",
+      "keywords": "proximal sampling, zeroth-order optimization, derivative-free sampling, diffusion models, score estimation, Gaussian mixture, Langevin dynamics, exponential convergence, isoperimetry, Monte Carlo, particle methods",
+      "about": [
+        {"@type": "Thing", "name": "Proximal sampling"},
+        {"@type": "Thing", "name": "Zeroth-order optimization"},
+        {"@type": "Thing", "name": "Diffusion models"}
+      ],
+      "mainEntityOfPage": "https://htkg.github.io/#publications"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://htkg.github.io/#num-attrs",
+      "name": "Interpreting Multi-Attribute Confounding through Numerical Attributes in Large Language Models",
+      "headline": "LLMs do not merely learn numerical correlations — they systematically amplify them",
+      "author": [
+        {"@id": "https://htkg.github.io/#person"},
+        {"@type": "Person", "name": "Gouki Minegishi"},
+        {"@type": "Person", "name": "Shota Kizawa"},
+        {"@type": "Person", "name": "Issey Sukeda"},
+        {"@type": "Person", "name": "Hitomi Yanaka"}
+      ],
+      "datePublished": "2025-12-20",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "Proceedings of the International Joint Conference on Natural Language Processing and the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2025)"
+      },
+      "pagination": "1098-1115",
+      "identifier": "arXiv:2511.04053",
+      "url": "https://aclanthology.org/2025.ijcnlp-long.60/",
+      "sameAs": [
+        "https://aclanthology.org/2025.ijcnlp-long.60/",
+        "https://arxiv.org/abs/2511.04053",
+        "https://github.com/htkg/num_attrs"
+      ],
+      "abstract": "Shows that the numerical attributes of an entity share latent subspaces inside large language models, and that the models amplify real-world correlations rather than simply reproducing them. Combining linear probing with partial correlation analysis and prompt-based vulnerability tests across model sizes, it demonstrates that numbers irrelevant to the question still shift internal magnitude representations and change the answer — a concrete vulnerability in LLM decision-making, and a representation-level handle for controlling it.",
+      "keywords": "mechanistic interpretability, numerical reasoning, multi-attribute confounding, latent subspace, linear probing, partial correlation, representation engineering, prompt sensitivity, fairness, large language models",
+      "about": [
+        {"@type": "Thing", "name": "Mechanistic interpretability"},
+        {"@type": "Thing", "name": "Numerical reasoning in large language models"},
+        {"@type": "Thing", "name": "Representation analysis"}
+      ],
+      "mainEntityOfPage": "https://htkg.github.io/#publications"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://htkg.github.io/#roleplay-framework",
+      "name": "A Framework for Efficient Development and Debugging of Role-Playing Agents with Large Language Models",
+      "headline": "Design the finished conversation first, and let the system write and test the prompt",
+      "author": [
+        {"@id": "https://htkg.github.io/#person"},
+        {"@type": "Person", "name": "Shoji Moriya"},
+        {"@type": "Person", "name": "Takuma Sato"},
+        {"@type": "Person", "name": "Manabu Nagao"},
+        {"@type": "Person", "name": "Keita Higuchi"}
+      ],
+      "datePublished": "2025-03-24",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "Proceedings of the 30th International Conference on Intelligent User Interfaces (ACM IUI 2025)"
+      },
+      "pagination": "70-88",
+      "identifier": "10.1145/3708359.3712119",
+      "url": "https://dl.acm.org/doi/10.1145/3708359.3712119",
+      "sameAs": [
+        "https://dl.acm.org/doi/10.1145/3708359.3712119",
+        "https://tech.preferred.jp/ja/blog/efficient-dev-roleplay-system/"
+      ],
+      "abstract": "An early study of autonomous multi-turn role-play with large language models. Instead of hand-writing ever longer prompts, the developer drafts the target dialogue; the framework then summarises it into a role-play profile, scenario outline, and step transitions to synthesise the prompt automatically, and validates the result through multi-agent dialogue and LLM-as-a-judge evaluation. A user study found that even experienced prompt engineers cut their workload substantially while keeping agent quality intact.",
+      "keywords": "role-playing agents, LLM agents, prompt engineering, LLM-as-a-judge, multi-agent dialogue, human-AI interaction, intelligent user interfaces, conversational agents, debugging tools",
+      "about": [
+        {"@type": "Thing", "name": "LLM-based role-playing agents"},
+        {"@type": "Thing", "name": "Prompt engineering tools"},
+        {"@type": "Thing", "name": "Human-AI interaction"}
+      ],
+      "mainEntityOfPage": "https://htkg.github.io/#publications"
+    }
+  ]
+}
+</script>
+{{ end }}

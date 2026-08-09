@@ -39,8 +39,8 @@ profiles:
 #     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/htkg
-#   - icon: brands/linkedin
-#     url: https://www.linkedin.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/hirohane-takagi
 #   - icon: academicons/google-scholar
 #     url: https://scholar.google.com/
 #   - icon: academicons/orcid
@@ -49,7 +49,7 @@ profiles:
 interests:
   - Statistical Machine Learning
   - Large Language Models
-  - Explainable AI, Interprretability
+  - Explainable AI, Interpretability
 
 education:
   # - area: PhD Artificial Intelligence
