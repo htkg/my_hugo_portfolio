@@ -50,10 +50,11 @@ and no longer build unpatched — hence the vendoring below.
 hugo mod vendor
 ```
 
-Versions taken are listed in `_vendor/modules.txt`. Two patches must be re-applied
-afterwards, both under `_vendor/.../modules/blox-tailwind/`:
+Versions taken are listed in `_vendor/modules.txt`. These patches must be re-applied
+afterwards, all under `_vendor/.../modules/blox-tailwind/`:
 
 | file | patch |
 | --- | --- |
 | `hugo.yaml` | `enableDefault: true` → `useEmbedded: fallback` (Hugo 0.148 removed the key) |
 | `layouts/partials/blox/resume-biography-3.html` | add a 300x300 `srcset` 2x variant for the avatar |
+| `layouts/partials/blox/resume-biography-3.html` | wrap the name in `h1` instead of `div`; upstream leaves the page with no `h1` |
