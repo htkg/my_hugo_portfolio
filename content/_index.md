@@ -44,6 +44,9 @@ sections:
     content:
       title: Refereed Conference Papers
       text: |
+        1. <u>Hirohane Takagi</u>, Masashi Sugiyama. (2026, December). Asymptotically Exact Negative Guidance of Diffusion Models via Positive-Unlabeled Learning. In Proceedings of the 40th Conference on Neural Information Processing Systems (NeurIPS 2026).  
+        TBA
+
         1. <u>Hirohane Takagi</u>, Atsushi Nitanda. (2026, April). Alternating Diffusion for Proximal Sampling with Zeroth Order Queries. The 14th International Conference on Learning Representations.  
         [Paper](https://openreview.net/forum?id=NjjRuJuMTd), [Arxiv](https://arxiv.org/abs/2603.19633), [Code (GitHub)](https://github.com/htkg/zod-ps)
 
@@ -58,7 +61,7 @@ sections:
   - block: markdown
     id: domestic
     content:
-      title: Domestic Conference Papers (国内発表)
+      title: Domestic Conference Presentations (国内発表)
       text: |
         1. <u>高木洋羽</u>, 佐藤大地, 長谷川貴巨, 大福泰樹, 武田峻悟, 山内有倫, 高橋孝樹, 国藤靖彦, 機械学習と波形補正を用いたスマートメーター計測値からPV出力と実需要への分離推定, 令和7年電気学会全国大会, (2025.3).  
         [要旨(6-102)](https://gakkai-web.net/iee/program/2025/data/html/general/general9.html)，松尾研究所と東京電力パワーグリッドの共同研究⚡️  
@@ -75,6 +78,10 @@ sections:
     content:
       title: Other Activities
       text: |
+        Academic Services
+
+        - Reviewer: NeurIPS 2026
+
         Book Reviewing
 
         - Joined the volunteer review of Deep Learning from Scratch Series, which first introduced me to Python and deep learning, as a small way of giving something back.

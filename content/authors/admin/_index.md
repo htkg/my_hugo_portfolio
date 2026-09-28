@@ -37,12 +37,12 @@ profiles:
     url: https://x.com/hhhhtkg
 #   - icon: brands/instagram
 #     url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/htkg
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/hirohane-takagi
-#   - icon: academicons/google-scholar
-#     url: https://scholar.google.com/
+  - icon: brands/github
+    url: https://github.com/htkg
+  - icon: academicons/google-scholar
+    url: https://scholar.google.co.jp/citations?user=VnB87Z0AAAAJ
 #   - icon: academicons/orcid
 #     url: https://orcid.org/
 
