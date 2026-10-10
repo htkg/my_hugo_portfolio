@@ -47,6 +47,7 @@ profiles:
 #     url: https://orcid.org/
 
 interests:
+  - Generative models
   - Statistical Machine Learning
   - Large Language Models
   - Explainable AI, Interpretability
@@ -83,17 +84,23 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: MSc Computer Science (ongoing)
+  - area: PhD Engineering
+    institution: The University of Tokyo
+    date_start: 2026-10-01
+    date_end: ''
+  - area: MSc Computer Science
     institution: The University of Tokyo
     date_start: 2024-04-01
-    date_end: ''
-  - area: BEng Mathematical Engineering
+    date_end: 2026-09-30
+    summary: |
+      Conducted research on statistical machine learning, learning theory, and large language models. Supervised by Prof. Masashi Sugiyama. Collaborated with several mentors on research projects.
+  - area: BEng Applied Mathematics
     institution: The University of Tokyo
     date_start: 2020-04-01
     date_end: 2024-03-31
     summary: |
-      Department: Mathematical Engineering and Information Physics (MEIP)  
-      Bachelor thesis: Prediction of Glaucoma from 3D Images of Brain Structural MRI Using Tensor Regression
+      Graduated from the Department of *Mathematical Engineering and Information Physics* (MEIP).
+      Conducted thesis research with Faculty of Medicine on predicting glaucoma from 3D brain MRIs.
 work:
   - position: Research Attachment at IHPC, A*STAR under SIPGA
     company_name: Agency for Science, Technology and Research (A*STAR), Singapore
@@ -105,7 +112,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2025-05-01
-    date_end: ''
+    date_end: 2026-03-31
   - position: Part-time Data Scientist, Project Manager
     company_name: Matsuo Institute, Inc.
     company_url: ''
@@ -228,7 +235,6 @@ awards:
 
 ## About
 
-I am a master’s student in computer science at the University of Tokyo, Japan.  
-My interests lie in reliable control of generative models through learning from
-limited information and human–AI collaboration. I strive to engage in both
-theoretical exploration and practical application development.
+I’m a PhD student at the University of Tokyo working on machine learning and artificial intelligence.
+My research focuses on trustworthy inference-time control of foundation models and the statistical theory behind it.
+Alongside my research, I’ve been working professionally for several years, building ML applications on large-scale data infrastructure in close collaboration with clients.

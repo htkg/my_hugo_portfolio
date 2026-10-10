@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2026-04-06
+date: 2026-10-10
 type: landing
 
 design:
@@ -45,10 +45,10 @@ sections:
       title: Refereed Conference Papers
       text: |
         1. <u>Hirohane Takagi</u>, Masashi Sugiyama. (2026, December). Asymptotically Exact Negative Guidance of Diffusion Models via Positive-Unlabeled Learning. In Proceedings of the 40th Conference on Neural Information Processing Systems (NeurIPS 2026).  
-        TBA
+        [Conference Page](https://neurips.cc/virtual/2026/loc/sydney/poster/148530)
 
         1. <u>Hirohane Takagi</u>, Atsushi Nitanda. (2026, April). Alternating Diffusion for Proximal Sampling with Zeroth Order Queries. The 14th International Conference on Learning Representations.  
-        [Paper](https://openreview.net/forum?id=NjjRuJuMTd), [Arxiv](https://arxiv.org/abs/2603.19633), [Code (GitHub)](https://github.com/htkg/zod-ps)
+        [Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/1f961dc9f56c8cdb125438888de7d60e-Abstract-Conference.html), [Conference Page](https://iclr.cc/virtual/2026/poster/10009836), [Arxiv](https://arxiv.org/abs/2603.19633), [Code (GitHub)](https://github.com/htkg/zod-ps)
 
         1. <u>Hirohane Takagi\*</u>, Gouki Minegishi\*, Shota Kizawa, Issey Sukeda, Hitomi Yanaka. (2025, December). Interpreting Multi-Attribute Confounding through Numerical Attributes in Large Language Models. In Proceedings of International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (pp. 1098-1115).  
         [Paper](https://aclanthology.org/2025.ijcnlp-long.60/), [Arxiv](https://arxiv.org/abs/2511.04053), [Code (GitHub)](https://github.com/htkg/num_attrs)
@@ -61,7 +61,7 @@ sections:
   - block: markdown
     id: domestic
     content:
-      title: Domestic Conference Presentations (国内発表)
+      title: Domestic Conference Presentations (国内学会発表)
       text: |
         1. <u>高木洋羽</u>, 佐藤大地, 長谷川貴巨, 大福泰樹, 武田峻悟, 山内有倫, 高橋孝樹, 国藤靖彦, 機械学習と波形補正を用いたスマートメーター計測値からPV出力と実需要への分離推定, 令和7年電気学会全国大会, (2025.3).  
         [要旨(6-102)](https://gakkai-web.net/iee/program/2025/data/html/general/general9.html)，松尾研究所と東京電力パワーグリッドの共同研究⚡️  
