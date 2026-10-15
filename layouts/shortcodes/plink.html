@@ -1,0 +1,2 @@
+{{- /* Link with a brand icon: {{< plink "brands/github" "https://..." "Code" >}} (icon name as accepted by functions/get_icon) */ -}}
+<a href="{{ .Get 1 }}" target="_blank" rel="noopener">{{ partial "functions/get_icon" (dict "name" (.Get 0) "attributes" "style=\"height:1em;display:inline-block;vertical-align:-0.125em;margin-right:0.25em\"") }}{{ .Get 2 }}</a>

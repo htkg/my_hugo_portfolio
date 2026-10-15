@@ -12,26 +12,55 @@
       "givenName": "Hirohane",
       "familyName": "Takagi",
       "url": "https://htkg.github.io/",
-      "jobTitle": "MSc student in Computer Science",
-      "affiliation": [
-        {"@type": "CollegeOrUniversity", "name": "The University of Tokyo"},
-        {"@type": "ResearchOrganization", "name": "RIKEN Center for Advanced Intelligence Project (AIP)"}
-      ],
+      "jobTitle": "PhD student in Engineering",
+      "affiliation": {"@type": "CollegeOrUniversity", "name": "The University of Tokyo"},
       "alumniOf": {"@type": "CollegeOrUniversity", "name": "The University of Tokyo"},
       "knowsAbout": [
+        "Generative Models",
         "Statistical Machine Learning",
         "Large Language Models",
-        "Mechanistic Interpretability",
         "Explainable AI",
-        "Sampling Algorithms",
+        "Interpretability",
+        "Inference-time Control of Foundation Models",
         "Diffusion Models",
-        "Human-AI Interaction"
+        "Sampling Algorithms"
       ],
       "sameAs": [
         "https://github.com/htkg",
         "https://x.com/hhhhtkg",
         "https://www.linkedin.com/in/hirohane-takagi"
       ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://htkg.github.io/#pu-steering",
+      "name": "Asymptotically Exact Negative Guidance of Diffusion Models via Positive-Unlabeled Learning",
+      "headline": "Principled formulation of negative prompting in diffusion models, combining positive-unlabeled (PU) learning and sequential Monte Carlo (SMC)",
+      "author": [
+        {"@id": "https://htkg.github.io/#person"},
+        {"@type": "Person", "name": "Masashi Sugiyama"}
+      ],
+      "datePublished": "2026-12-08",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "Proceedings of the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)"
+      },
+      "identifier": "arXiv:2610.19802",
+      "url": "https://arxiv.org/abs/2610.19802",
+      "sameAs": [
+        "https://neurips.cc/virtual/2026/loc/sydney/poster/148530",
+        "https://arxiv.org/abs/2610.19802",
+        "https://github.com/htkg/pu-steering"
+      ],
+      "abstract": "A statistical foundation for AI safety in generative models: telling them what to avoid, with guarantees. Rather than pushing each sample away from an unwanted condition by heuristic, it samples from an explicit target with tunable avoidance strength, and plugs into any existing negative-guidance method. During generation, the in-progress samples train an evaluator via weakly supervised learning, updated on the fly to judge which samples are unwanted. It improves avoidance, quality, and diversity, and provably converges to the target.",
+      "keywords": "negative prompting, negative guidance, diffusion models, positive-unlabeled learning, sequential Monte Carlo, generative AI safety, controllable generation, sampling, score-based models",
+      "about": [
+        {"@type": "Thing", "name": "Negative guidance of diffusion models"},
+        {"@type": "Thing", "name": "Positive-unlabeled learning"},
+        {"@type": "Thing", "name": "Sequential Monte Carlo"}
+      ],
+      "mainEntityOfPage": "https://htkg.github.io/#publications"
     },
     {
       "@type": "ScholarlyArticle",
